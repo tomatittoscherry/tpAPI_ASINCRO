@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\tpAPI_ASINCRO.props" />
+</Project>
